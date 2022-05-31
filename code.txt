@@ -1,0 +1,6 @@
+Identifying the Classes in a System:
+nouns and noun phrases to help us identify classes.
+We may decide that some of these are actually attributes of other classes in the system. We may
+also conclude that some of the nouns do not correspond to parts of the system.
+We create classes only for the nouns and noun phrases that have significance in the
+ATM system.they’re important because they interact with our ATM system.
